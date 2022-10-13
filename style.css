@@ -15,20 +15,58 @@ body {
 
 }
 
+nav {
+    background-color: rgb(129, 124, 124);
+    opacity: 80%;
+    grid-column: 1/-1;
+    /* margin-bottom: 0px; */
+}
+
+.nav-menu {
+    display: flex;
+    justify-content: center;
+    padding-top: 1rem;
+    list-style-type: none;
+
+}
+
+li {
+    padding-right: 3rem;
+}
+
+.nav-menu>li>a {font-size: 1.5rem;
+    text-decoration: none;
+    color: white;
+}
+
+.nav-menu li .active,
+.nav-menu li a:hover {
+    color: rgb(0, 4, 6);
+    transition: .5s;
+}
+
+.nav-menu li a.active {
+    background: grey;
+    border: 2px solid white;
+    border-radius: 5px;
+}
+
 header {
     background: linear-gradient(to right, lightblue, darkblue);
     padding: .25rem;
 
 }
 
-h2 {
+h2 {color: white;
     font-family: 'Roboto Slab', serif;
+    font-size: 2rem;
     font-style: italic;
+    font-weight: 800;
     text-align: center;
 }
 
 h2:hover {
-    color: lightgoldenrodyellow;
+    color: rgb(209, 236, 154);
     transition: .5s;
 }
 
@@ -75,41 +113,10 @@ footer {
     padding: 1rem;
 }
 
-nav {
-    background-color: rgb(91, 89, 89);
-    grid-column: 1/-1;
-    /* margin-bottom: 0px; */
-}
-
-.nav-menu {
-    display: flex;
-    justify-content: center;
-    padding-top: 1rem;
-    list-style-type: none;
-
-}
-
-li {
-    padding-right: 3rem;
-}
-
-li>a {
+.footer-menu>li>a {
     text-decoration: none;
     color: white;
 }
-
-.nav-menu li .active,
-.nav-menu li a:hover {
-    color: lightblue;
-    transition: .5s;
-}
-
-.nav-menu li a.active {
-    background: grey;
-    border: 2px solid white;
-    border-radius: 5px;
-}
-
 .footer-menu li a:hover {
     color: rgb(4, 48, 62);
     transition: .5s;
