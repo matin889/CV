@@ -270,7 +270,12 @@ article>p {
     width: 100%;
     height: auto;
     border-radius: 10px;
-    padding: 5px;}
+    padding: 5px;
+}
+
+.gallery-image img {
+    cursor: zoom-in;
+}
     
     .gallery-image {
         grid-column: 2/12;
