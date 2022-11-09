@@ -362,6 +362,7 @@ article>p {
             grid-template-rows: fit-content(height);
             word-wrap: break-word;
             color: black;
+            border: none;
         }
     
         .nav-menu {
@@ -424,4 +425,9 @@ article>p {
             right: 20px;
         }
     
+    }
+    @media (max-width: 425px) {
+        .education p {
+            font-size: .8rem;
+        }
     }
