@@ -1,0 +1,60 @@
+{
+    "sidebar": [
+      {
+        "img": "image/me.png",
+        "profilename": "Md Abdul Matin",
+        "road": "Önskehemsgatan 26",
+        "post": "12454, Stockholm",
+        "phone": "+46707132419",
+        "email": "matinpcc@yahoo.com"
+      }
+    ],
+    "WorkExperience": [
+      {
+        "duration": "2020 – tills nu",
+        "position": "personlig assistent, Stockholms stad",
+        "responsibility": [
+          "Jag hjälper ett barn att utveckla hans kunskap så att han skulle bli självförsörjande."
+        ]
+      },
+      {
+        "duration": "2011 – 2018",
+        "position": "Chef, administration och drift Next Spaces Ltd., Dhaka, Bangladesh",
+        "responsibility": [
+          "Underhåller administrativ personal genom att rekrytera, välja och orientera anställda och bedöma de anställda.",
+          "Att ta hand om mänskliga resurser och administrativa krav.",
+          "Logistikhantering, uppskattning av projektsbudget.",
+          "Förbered en ny byggarbetsplats för arbetsförhållanden genom att ordna boende, matfaciliteter, kontorskontor, verktyg och hantera juridiska krav.",
+          "Slutför byggprojekt genom att organisera och samordna information och krav, planera, ordna mötesplan och övervaka produktioner.",
+          "Att upprätthålla Letter av Credit (LC) för att köpa utrustning och reservdelar genom att samla in proformafaktura och samordna med leverantörer, bank, clearing- och vidarebefordringsagent, försäkringsbolag och logistikföretag.",
+          "Verifiera inköpsformulär och fakturor och fakturering av byggprojekt & andra.",
+          "Att ta hand om underhåll och felsökning av tung utrustning."
+        ]
+      },
+      {
+        "duration": "2005 – 2008",
+        "position": "Marknadsföring på nätet, Google-USA Bangladesh",
+        "responsibility": [
+          "Förbered bloggsidan om alla typer av sporter och kändisar och marknadsför dem på nätet."
+        ]
+      }
+    ],
+    "educations": [
+      {
+        "first": ["Sep/2022", "Pågående", "Yrkes Högskolan", "Fullstack Javascript"],
+        "second": ["Juni/2022", "Sep/2022", "Komvux gymnasial", "Webb server programmering -2"],
+        "third": ["Maj/2022", "Juni/2022", "Komvux gymnasial", "Webb utveckling-2"],
+        "fourth": ["Apr/2022", "Maj/2022", "Komvux gymnasial", "Webb server programmering -1"],
+        "fifth": ["Mar/2022", "Apr/2022", "Komvux gymnasial", "Webb utveckling-1"],
+        "sixth": ["Feb/2022", "Mar/2022", "Komvux gymnasial", "Programmering -2 (Java)"],
+        "seventh": ["Nov/2021","Jan/2022", "Komvux gymnasial", "Engelska 6"],
+        "eigth": ["Oct/2021", "Dec/2021", "Komvux gymnasial", "Mattematik-2c"],
+        "ninth": ["Sep/2021", "Nov/2021", "Komvux gymnasial", "Programmering -1 (Java)"],
+        "tenth": ["Sep/2021", "Nov/2021", "Komvux gymnasial", "Engelska 5"],
+        "eleventh": ["Aug/2021", "Sep/2021", "Komvux gymnasial", "Svenska som andraspråk -2"],
+        "twelfth": ["Maj/2021", "Juli/2021", "Komvux gymnasial", "Dator Teknik 1"],
+        "thirteenth": ["Apr/1999", "Juni/2001", "Pabna Cadet College,<br>Pabna,Bangladesh", "Gymnasium"]
+        
+      }
+    ]
+  }
