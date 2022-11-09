@@ -204,6 +204,7 @@ footer {
     border-left: 2px solid white;
     word-wrap: break-word;
     color: white;
+    margin: 0 auto;
 }
 
 .heading-edu {
@@ -287,19 +288,27 @@ article>p {
         padding-bottom: 10px;
         
     }
-    .modal {
-        width: 100%;
-        height: 100%;
-        padding: 10px;
-        background-color: #24262b;
+    .modalOuter {
         display: none;
         position: fixed;
         z-index: 1;
+        padding-top: 100px;
+        left: 0;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        overflow: auto;
+        background-color: rgb(0, 0, 0);
+        background-color: rgba(0, 0, 0, 0.9);
+      }
+      
+      .modalInner {
+        max-width: 90%;
+        height: 70vh;
+        display: block;
         margin: auto;
-        
-    }
-
-    .modal-image {
+      }
+      #popImage {
         max-width: 80%;
         margin: auto;
         display: block;
@@ -407,8 +416,12 @@ article>p {
             border: 1px solid white;
         }
         .gallery-image>img {
-            min-width: 200px;
+            max-width: 200px;
             height: auto;
+        }
+        .close {
+            top: 5px;
+            right: 20px;
         }
     
     }
