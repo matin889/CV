@@ -39,22 +39,85 @@
         ]
       }
     ],
+
     "educations": [
-      {
-        "first": ["Sep/2022", "Pågående", "Yrkes Högskolan", "Fullstack Javascript"],
-        "second": ["Juni/2022", "Sep/2022", "Komvux gymnasial", "Webb server programmering -2"],
-        "third": ["Maj/2022", "Juni/2022", "Komvux gymnasial", "Webb utveckling-2"],
-        "fourth": ["Apr/2022", "Maj/2022", "Komvux gymnasial", "Webb server programmering -1"],
-        "fifth": ["Mar/2022", "Apr/2022", "Komvux gymnasial", "Webb utveckling-1"],
-        "sixth": ["Feb/2022", "Mar/2022", "Komvux gymnasial", "Programmering -2 (Java)"],
-        "seventh": ["Nov/2021","Jan/2022", "Komvux gymnasial", "Engelska 6"],
-        "eigth": ["Oct/2021", "Dec/2021", "Komvux gymnasial", "Mattematik-2c"],
-        "ninth": ["Sep/2021", "Nov/2021", "Komvux gymnasial", "Programmering -1 (Java)"],
-        "tenth": ["Sep/2021", "Nov/2021", "Komvux gymnasial", "Engelska 5"],
-        "eleventh": ["Aug/2021", "Sep/2021", "Komvux gymnasial", "Svenska som andraspråk -2"],
-        "twelfth": ["Maj/2021", "Juli/2021", "Komvux gymnasial", "Dator Teknik 1"],
-        "thirteenth": ["Apr/1999", "Juni/2001", "Pabna Cadet College,<br>Pabna,Bangladesh", "Gymnasium"]
-        
-      }
+        {
+            "startDate": "Sep/2022",
+            "endDate": "Pågående",
+            "school": "Yrkes <br> Högskolan",
+            "course": "Fullstack Javascript"
+        },
+        {
+            "startDate": "Juni/2022",   
+            "endDate": "Sep/2022",
+            "school": "Komvux gymnasial",
+            "course": "Webb server programmering -2"
+        },
+        {
+            "startDate": "Maj/2022",
+            "endDate": "Juni/2022", 
+            "school": "Komvux gymnasial", 
+            "course": "Webb utveckling-2"
+        },
+        {
+            "startDate": "Apr/2022", 
+            "endDate": "Maj/2022", 
+            "school": "Komvux gymnasial", 
+            "course": "Webb server programmering -1"
+        },
+        {
+            "startDate": "Mar/2022", 
+            "endDate": "Apr/2022", 
+            "school": "Komvux gymnasial",
+            "course": "Webb utveckling-1"
+        },
+        {
+            "startDate": "Feb/2022", 
+            "endDate": "Mar/2022", 
+            "school": "Komvux gymnasial", 
+            "course": "Programmering -2 (Java)"
+        },{
+            "startDate": "Nov/2021",
+            "endDate": "Jan/2022", 
+            "school": "Komvux gymnasial", 
+            "course": "Engelska 6"
+        },
+        {
+            "startDate": "Oct/2021", 
+            "endDate": "Dec/2021", 
+            "school": "Komvux gymnasial",
+            "course":  "Mattematik-2c"
+        },
+        {
+            "startDate": "Sep/2021",
+            "endDate":  "Nov/2021", 
+            "school": "Komvux gymnasial", 
+            "course": "Programmering -1 (Java)"
+        },
+        {
+            "startDate": "Sep/2021", 
+            "endDate": "Nov/2021", 
+            "school": "Komvux gymnasial",
+            "course":  "Engelska 5"
+        },
+        {
+            "startDate": "Aug/2021", 
+            "endDate": "Sep/2021",
+            "school":  "Komvux gymnasial", 
+            "course": "Svenska som andraspråk -2"
+        },
+        {
+            "startDate": "Maj/2021", 
+            "endDate": "Juli/2021", 
+            "school": "Komvux gymnasial",
+            "course":  "Dator Teknik 1"
+        },
+        {
+            "startDate": "Apr/1999",
+            "endDate":  "Juni/2001", 
+            "school": "Pabna Cadet College,<br>Pabna,<br>Bangladesh", 
+            "course": "Gymnasium"
+        }
+
     ]
   }
